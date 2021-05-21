@@ -1,6 +1,6 @@
 <template>
 <div>
-  <iframe height="100%" width=100% :src="`${getFilePath}`" ></iframe>
+  <iframe height="130%" width=200% :src="`${getFilePath}`" ></iframe>
 </div>
 </template>
 
